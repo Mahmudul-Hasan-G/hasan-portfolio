@@ -118,3 +118,14 @@ padding: 30px;
 .skill-des{
   color: #757575;
 }
+.summary-title{
+  font-weight: 700;
+font-size: 30px;
+color: #474747;
+margin-bottom: 30px;
+}
+.summary-container{
+  display: flex;
+  justify-content: space-between;
+  
+}
